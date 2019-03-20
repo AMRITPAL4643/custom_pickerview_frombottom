@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  iOSCustomPickerView
-//
-//  Created by Anupam Chugh on 15/08/18.
-//  Copyright © 2018 JournalDev. All rights reserved.
-//
+ 
 
 import UIKit
 
